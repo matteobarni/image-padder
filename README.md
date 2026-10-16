@@ -17,9 +17,9 @@
     <br />
     <a href="#usage">View Usage</a>
     ·
-    <a href="https://github.com/mbpitaly/image-padder/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/matteobarni/image-padder/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
     ·
-    <a href="https://github.com/mbpitaly/image-padder/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+    <a href="https://github.com/matteobarni/image-padder/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
   </p>
 </div>
 
@@ -84,13 +84,13 @@ It was built by Matteo Barni (2026) to make batch aspect-ratio padding fast and 
 
 **Option A — installer (Windows)**
 
-Download `MBPs_Image_Padder_Setup.exe` from the [Releases](https://github.com/mbpitaly/image-padder/releases) page and run it. Everything is bundled — no extra installs, ever.
+Download `MBPs_Image_Padder_Setup.exe` from the [Releases](https://github.com/matteobarni/image-padder/releases) page and run it. Everything is bundled — no extra installs, ever.
 
 **Option B — from source**
 
 ```sh
 # 1. Clone
-git clone https://github.com/mbpitaly/image-padder.git
+git clone https://github.com/matteobarni/image-padder.git
 cd image-padder
 
 # 2. Install the only runtime dependency
@@ -166,7 +166,7 @@ Contributions are what make the open-source community such an amazing place. Any
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please use the [issue templates](https://github.com/mbpitaly/image-padder/issues/new/choose) for bugs and feature requests, and check [CHANGELOG.md](CHANGELOG.md) before opening PRs.
+Please use the [issue templates](https://github.com/matteobarni/image-padder/issues/new/choose) for bugs and feature requests, and check [CHANGELOG.md](CHANGELOG.md) before opening PRs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
