@@ -38,6 +38,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#building-from-source">Building From Source</a></li>
     <li><a href="#project-layout">Project Layout</a></li>
+    <li><a href="#authors">Authors</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -49,7 +50,7 @@
 
 MBP's Image Padder is a single-file tkinter GUI that pads a batch of photos to a target aspect ratio with clean white borders — ideal for print, social platforms, and templates that demand a specific frame.
 
-It was built by Matteo Barni (2026) to make batch aspect-ratio padding fast and autonomous: pick your photos, choose a ratio, start, done.
+It was built by Matteo Barni with Layla, his Internal AI Agent (2026), to make batch aspect-ratio padding fast and autonomous: pick your photos, choose a ratio, start, done.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,6 +153,16 @@ image-padder/
 ├── requirements.txt
 └── README.md
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+## Authors
+
+- **Matteo Barni** ([@matteobarni](https://github.com/matteobarni)) — idea, design and direction: what the app does, how it looks, what ships.
+- **Layla** ([@layla-matteobarni](https://github.com/layla-matteobarni)) — Matteo's Internal AI Agent: writes, tests and maintains the code.
+
+From November 2026 every commit is authored by Layla and co-authored by Matteo, so the history shows both.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
